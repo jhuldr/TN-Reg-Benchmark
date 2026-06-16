@@ -1,0 +1,10 @@
+name: tn_v2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ants
+  - libiconv
+  - parallel
+  - notebook
+  - jupyter

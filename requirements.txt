@@ -1,0 +1,26 @@
+# Core (preprocessing, evaluation, figures)
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+nibabel==5.3.3
+SimpleITK==2.4.0
+pydicom==3.0.2
+scikit-image==0.24.0
+tifffile==2025.5.10
+Pillow==12.0.0
+matplotlib==3.7.1
+tqdm==4.67.0
+
+# Learning-/optimization-based methods (install as needed)
+# torch was installed with CUDA 12.8 in our setup (torch==2.10.0+cu128);
+# install the build matching your own CUDA via the official PyTorch index.
+torch==2.10.0
+fireants==1.0.0   # FireANTs registration; installed from source (see README)
+
+# --- NOT on PyPI / installed separately (see README) ---
+# MIR             : third-party registration toolbox used by ConvexAdam
+#                   https://github.com/junyuchen245/MIR  (pip install -e . in its repo)
+# ANTs 2.6.2      : antsRegistration / antsApplyTransforms CLIs (ANTs Affine + SyN)
+# FreeSurfer 8.1.0: mri_synthmorph (SynthMorph) and mri_easyreg (EasyReg) CLIs
+# VesselFM v1.0   : downstream vessel segmentation; dyn_unet_base, no retraining
+#                   https://github.com/bwittmann/vesselFM  (see its repo for setup)

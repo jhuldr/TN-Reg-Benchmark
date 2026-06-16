@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Notebooks (the evaluation logic lives in eval/ as scripts; keep notebooks out)
+*.ipynb
+
+# Data and patient material — never commit (IRB)
+*.nii
+*.nii.gz
+*.dcm
+*.tiff
+*.tif
+data/
+nii_Label/
+2020-22_MRIs_Cropped_and_Segmentations/
+outputs/
+vesselfm_results/
+
+# Generated eval artifacts that may embed patient-level rows
+eval_result/eval_*.csv
+eval_result/fov_per_case.csv
+eval_result/cohort_mrn_list.*
+
+# Model weights
+*.pth
+*.pt
+*.h5
+
+# OS / editor
+.DS_Store
+*.bak
+*.bak2
