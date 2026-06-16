@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 # ============================================================
 # v2: per-side label (loads only ipsi or contra label per case)
 #

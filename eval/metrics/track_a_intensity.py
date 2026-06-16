@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Track A: local image-based metrics inside the trigeminal ROI.
 
 Computes, on the warped MRA sampled within the matched 48^3 ROI:

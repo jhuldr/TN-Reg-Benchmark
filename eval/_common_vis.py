@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Thin re-export of the low-level visualization helpers used by case/Fig.1 code.
 
 These live in the repository's ``visualization`` package (standardize_case_view.py,

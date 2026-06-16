@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 # ============================================================
 # Build Supplementary Table S1 — DICOMDIR-aware version.
 # DICOMs here look like /raw/mri/<MRN>/<HASH1>/<HASH2>/I1000000

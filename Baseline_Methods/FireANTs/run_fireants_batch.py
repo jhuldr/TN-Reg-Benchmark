@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 
 """
 Run Batch FireANTs MRI fixed & MRA moving
@@ -10,8 +15,6 @@ Outputs (under --out_base):
   inversewarped/   <case>_reg_InverseWarped.nii.gz   (only if --do_inverse)
   mat/             transforms exported by fireants (ants-style) + npy rigid matrix
 
-Author: Xupeng Zhang
-Johns Hopkins University
 """
 
 import os

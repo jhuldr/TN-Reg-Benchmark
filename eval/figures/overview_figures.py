@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Overall per-method figures.
 
   fig1_overall_intensity.png  -> manuscript Fig. 2 (Vessel AUC, ROI NMI)

@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Track B: segmentation-derived vessel-proximity / geometry metrics.
 
 Given the clinician vessel annotation and the VesselFM prediction sampled in the

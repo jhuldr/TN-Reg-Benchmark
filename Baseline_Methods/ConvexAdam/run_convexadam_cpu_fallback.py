@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 Run Batch in ConvexAdam MRI fixed & MRA Moving — CPU fallback
 
 Uses convex_adam_pt (low-level API) so we can pass `device="cpu"`.
 
-Author: Xupeng Zhang
-Johns Hopkins University
 """
 
 import os

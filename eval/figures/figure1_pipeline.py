@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Figure 1 pipeline-illustration assets (manuscript Fig. 1).
 
 Renders the eight numbered panels (raw MRI/MRA -> labels -> warped MRA -> ROI ->

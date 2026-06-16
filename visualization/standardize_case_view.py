@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 Standardized visualization for TN centroid/crop alignment.
 
@@ -15,8 +20,6 @@ Layout (each side figure): 5 rows x 3 columns
 - Row 4: TN original crop (raw)
 - Row 5: TN original crop + TN label
 
-Author: Xupeng Zhang
-Johns Hopkins University
 """
 
 from __future__ import annotations

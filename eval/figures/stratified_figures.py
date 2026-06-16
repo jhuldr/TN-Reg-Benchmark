@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Figures 6 and 7: contrast- and FOV-stratified analyses.
 
   fig6_contrast_tier_distribution.png  -> ROI counts per Low/Mid/High tier

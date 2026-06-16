@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Stratified statistics with patient-level bootstrap confidence intervals.
 
 Reproduces the inferential numbers reported in the manuscript:

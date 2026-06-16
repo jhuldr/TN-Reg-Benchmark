@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Per-case operating-regime / failure-mode grids (manuscript Fig. 4 / Fig. 8).
 
 Renders, for one (case, side), a column grid of [Fixed MRI, Original MRA, + the

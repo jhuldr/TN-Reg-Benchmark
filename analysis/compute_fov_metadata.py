@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 # ============================================================
 # Compute r_min FOV ratio for each case from raw NIfTI headers.
 # MRN is zero-padded to 8 digits to match file naming.

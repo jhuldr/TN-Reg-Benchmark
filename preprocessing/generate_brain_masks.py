@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 Brain Mask Generation for MRI and MRA Images
 Generates binary masks to remove black background for reverse registration
 
-Author: Xupeng Zhang
-Johns Hopkins University
-Date: January 27, 2026
 """
 
 import os

@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """I/O and ROI-sampling helpers shared by the metric computation.
 
 These map a clinician-provided trigeminal centroid (in DICOM index space) onto a

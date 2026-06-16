@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Central configuration for the ROI-centered evaluation.
 
 All paths are driven by the ``REG_ROOT`` environment variable (the project root

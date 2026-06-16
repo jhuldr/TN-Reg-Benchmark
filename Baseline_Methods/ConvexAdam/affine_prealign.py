@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 Affine Pre-alignment for MRI-MRA Registration (v2)
 This script performs affine registration as initialization before deformable registration
@@ -6,11 +11,6 @@ Uses SimpleITK with Mutual Information for cross-modality registration
 """
 
 """
-================================================================================
-Author: Xupeng Zhang
-Johns Hopkins University
-January 25, 2026
-================================================================================
 """
 
 import os

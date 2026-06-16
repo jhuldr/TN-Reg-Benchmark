@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Figure 5: coupling between predicted vessel volume and directional distances.
 
 Each panel is a 2D density (hexbin, log-volume x-axis) of all (method, ROI)

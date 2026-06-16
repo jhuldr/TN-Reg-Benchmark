@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 EasyReg baseline for TN-Reg MRI-MRA registration.
 

@@ -1,3 +1,8 @@
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """Generate the overall metric tables (manuscript Table III) as CSV + LaTeX.
 
 Writes table_overall_intensity.{csv,tex} and table_overall_geometry.{csv,tex}

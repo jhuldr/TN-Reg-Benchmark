@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# TN-Reg-Benchmark
+# Code author: Xupeng Zhang (xzhan419@jh.edu)
+# Johns Hopkins University
+# See README for the full author list and citation.
+
 """
 Batch render TN case RAS overviews for BOTH:
   (A) MRI cropped  — verify TN alignment in MRI space
