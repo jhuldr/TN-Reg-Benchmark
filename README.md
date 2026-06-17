@@ -1,5 +1,24 @@
 # Evaluation Principles for MRI–MRA Registration in Trigeminal Neuralgia: An ROI-Centered Neurovascular Benchmark
 
+<p align="center">
+  <b>Xupeng Zhang<sup>1</sup></b>, <b>Xihang Wang<sup>2</sup></b>, <b>Michael Xie<sup>2</sup></b>, <b>Haoyuan Liang<sup>3</sup></b>, <b>Hau Ern Lien<sup>3</sup></b>, <b>Oishika Das<sup>2</sup></b>, <b>James Feghali<sup>2</sup></b>,<br/>
+  <b>Risheng Xu<sup>2</sup></b>, and <b>Peirong Liu<sup>1,4</sup></b>
+</p>
+
+<p align="center">
+<sup>1</sup>Department of Electrical and Computer Engineering,<br/>
+<sup>2</sup>Department of Neurosurgery,<br/>
+<sup>3</sup>Department of Biomedical Engineering,<br/>
+</p>
+<p align="center">
+Johns Hopkins University
+</p>
+
+<p align="center">
+Contact: {xzhan419, pliu53}@jh.edu
+</p>
+
+
 ![Overview of the MRI–MRA registration and ROI-centered validation pipeline](Overview_Pipeline.png)
 
 Code for the paper *"Evaluation Principles for MRI–MRA Registration in Trigeminal
@@ -205,21 +224,12 @@ Patient identifiers, private paths, and embedded outputs have been removed; exam
 case IDs appear only as the placeholder `<CASE_ID>`. The repository ships no
 imaging, no patient identifiers, and no notebook outputs.
 
-## Citation
-
-```bibtex
-@article{zhang_tnreg,
-  title   = {Evaluation Principles for MRI--MRA Registration in Trigeminal
-             Neuralgia: An ROI-Centered Neurovascular Benchmark},
-  author  = {Zhang, Xupeng and Wang, Xihang and Xie, Michael and Liang, Haoyuan
-             and Lien, Hau Ern and Das, Oishika and Feghali, James and Xu, Risheng
-             and Liu, Peirong},
-  journal = {IEEE Transactions on Medical Imaging (submitted)},
-  year    = {2026}
-}
-```
 
 ## License
 
 Released for research use. See `LICENSE` (add your chosen license, e.g. MIT or
 Apache-2.0, before publishing).
+
+## Copyright
+
+"Evaluation Principles for MRI–MRA Registration in Trigeminal Neuralgia: An ROI-Centered Neurovascular Benchmark" is a publication of The Johns Hopkins University and copyright © 2026 The Johns Hopkins University. All rights reserved.
